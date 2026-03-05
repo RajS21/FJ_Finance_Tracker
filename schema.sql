@@ -2,8 +2,6 @@
 -- PostgreSQL database dump
 --
 
-\restrict 0DQMbTEox5DbVXmpnpct8kdB9QcOzK5r6bTp0sLcPGD60lsRvti482JAsWKmHLI
-
 -- Dumped from database version 18.2
 -- Dumped by pg_dump version 18.2
 
@@ -252,6 +250,3 @@ ALTER TABLE ONLY public.transactions
 --
 -- PostgreSQL database dump complete
 --
-
-\unrestrict 0DQMbTEox5DbVXmpnpct8kdB9QcOzK5r6bTp0sLcPGD60lsRvti482JAsWKmHLI
-
